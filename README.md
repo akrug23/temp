@@ -3,7 +3,7 @@
 This document will walk you through the process of installing the following:
 
 * Node.js
-* [Bower](#installBower)
+* [Bower](#markdown-header-install-bower)
 * Git
 * Grunt
 
@@ -11,7 +11,7 @@ If you have any of these already
 
 
  
-## <a name="installBower"></a>Install Bower
+## Install Bower
 
 1. Open terminal
 
